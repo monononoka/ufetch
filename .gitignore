@@ -1,0 +1,14 @@
+# Local builds
+ufetch
+ufetch.exe
+ufetch.exe~
+dist/
+
+# Partial downloads and resume metadata
+*.part
+*.part.url
+
+# Local editor files and installers
+.vscode/
+*.vsix
+*~
